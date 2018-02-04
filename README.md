@@ -1,6 +1,6 @@
 # Spring Form Test
 
-Simple form using the spring and redis framework as a cache database.
+Simple form using spring framework and redis as a cache database. 
 
 ## Requirements
 - BD Redis
